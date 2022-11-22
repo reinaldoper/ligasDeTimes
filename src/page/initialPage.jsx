@@ -44,7 +44,7 @@ class initialPage extends Component {
   }
   render() {
     const { book } = this.props;
-    console.log(book[0].country.name);
+    /* console.log(book[0].country.name); */
     const { msg } = this.state;
     const list = book.map((item, index) => (
       <div key={ index } className= 'div-li'>
@@ -61,7 +61,7 @@ class initialPage extends Component {
     ));
     return (
        <div className='div-principal'>
-       <h2>Escolha uma liga pelo ID <h1><strong>Liga: { book[0].country.name }</strong></h1> </h2>
+       <h1>Escolha uma liga pelo ID</h1>
        <input 
           type="text" 
           id="name" 
