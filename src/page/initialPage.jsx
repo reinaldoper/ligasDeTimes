@@ -7,7 +7,7 @@ const message = 'Carregando ...';
 class initialPage extends Component {
   state = {
     msg: false,
-    liga: '',
+    liga: 0,
   }
 
   async componentDidMount(){
@@ -35,7 +35,7 @@ class initialPage extends Component {
   clickMe = async () => {
     const { liga } = this.state;
     const { dispatch } = this.props;
-    if (liga.length > 0) {
+    if (liga.length > 0 && !isNaN(liga)) {
       const result = await fetchBookSearch(liga);
       dispatch(requiretName(result));
     } else {
