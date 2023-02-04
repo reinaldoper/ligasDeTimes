@@ -8,6 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 ### `Rodar a aplicação`
 </br>
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 [Link da aplicação](https://classy-vacherin-a43e5f.netlify.app/)
  
  ### `npm install`
