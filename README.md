@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 ### `Rodar a aplicação`
 </br>
- https://jade-trifle-9cc2b8.netlify.app/
+[ Link da aplicação](https://classy-vacherin-a43e5f.netlify.app/)
  
  ### `npm install`
 - Baixar as dependencias do projeto
@@ -17,7 +17,7 @@ In the project directory, you can run:
 - Para rodar a aplicação em uma máquina local.
 
 ### `imagem de uma das telas de pesquisa:`
-<img src="src/time.png" alt="image"/>
+<img src="src/times.png" alt="image"/>
 </br>
 
 Runs the app in the development mode.\
