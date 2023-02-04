@@ -3,10 +3,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+## Fazer um git clone git@github.com:reinaldoper/ligasDeTimes.git
 
 In the project directory, you can run:
+### `Rodar a aplicação`
+</br>
+ https://jade-trifle-9cc2b8.netlify.app/
+ 
+ ### `npm install`
+- Baixar as dependencias do projeto
 
 ### `npm start`
+- Para rodar a aplicação em uma máquina local.
+
+### `imagem de uma das telas de pesquisa:`
+<img src="src/time.png" alt="image"/>
+</br>
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
